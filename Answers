@@ -11,3 +11,8 @@ If the plugins were not installed inside Eclipse you would not be able to use th
 
 4. What is the purpose of these modules/plugins?
 The purpose of these plugins is to allow a user to code in many different languages in one applications rather than in multiple ones. 
+
+5. What is the benefit of an IDE versus separate programs?
+By using an IDE a user can edit, test and debug code very easily. Also you can have all your different code and projects in this one application instead of installing seperate ones. 
+
+
