@@ -6,6 +6,5 @@ An IDE is a programing application that allows users to write code in many diffe
 2. How are modules/plugins added to Eclipse? 
 To add plugins in Eclipse you need to go to the help tab in Eclipse then click on install new software. In the window that shows up you type the url of the language you want to use in the works with field then click next and follow the installation steps. 
 
-
-
-
+3. Why should they be installed inside of Eclipse?
+If the plugins were not installed inside Eclipse you would not be able to use the different languages that the IDE can make use of. 
