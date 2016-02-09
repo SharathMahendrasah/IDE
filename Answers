@@ -15,4 +15,7 @@ The purpose of these plugins is to allow a user to code in many different langua
 5. What is the benefit of an IDE versus separate programs?
 By using an IDE a user can edit, test and debug code very easily. Also you can have all your different code and projects in this one application instead of installing seperate ones. 
 
+6. How do you perform revision contorl in Eclipse?
+To perform reversion control you need to install the necessary pluggin for either git or svn. Once you do that you can create a project and share it by left clicking and saying that you want to use git or svn to share it. The other way to do this is set up a git or svn repo using the respective perspectives. 
+
 
