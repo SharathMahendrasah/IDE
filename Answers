@@ -8,3 +8,6 @@ To add plugins in Eclipse you need to go to the help tab in Eclipse then click o
 
 3. Why should they be installed inside of Eclipse?
 If the plugins were not installed inside Eclipse you would not be able to use the different languages that the IDE can make use of. 
+
+4. What is the purpose of these modules/plugins?
+The purpose of these plugins is to allow a user to code in many different languages in one applications rather than in multiple ones. 
