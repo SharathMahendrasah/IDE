@@ -18,4 +18,9 @@ By using an IDE a user can edit, test and debug code very easily. Also you can h
 6. How do you perform revision contorl in Eclipse?
 To perform reversion control you need to install the necessary pluggin for either git or svn. Once you do that you can create a project and share it by left clicking and saying that you want to use git or svn to share it. The other way to do this is set up a git or svn repo using the respective perspectives. 
 
+7. How do you change perspectives in Eclipse?
+To change perspectives you need to prees the icon that looks like a window with a plus sign on the left hand side of the tool bar.
+
+
+
 
